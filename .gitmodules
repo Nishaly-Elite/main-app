@@ -1,0 +1,6 @@
+[submodule "projects/profile"]
+	path = projects/profile
+	url = https://github.com/Nishaly-Elite/profile-app.git
+[submodule "projects/workflow"]
+	path = projects/workflow
+	url = https://github.com/Nishaly-Elite/workflow-app.git
